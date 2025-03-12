@@ -20,6 +20,7 @@ Our team’s data model is designed for an online bookstore, capturing key relat
 ![image](https://github.com/user-attachments/assets/d991d994-3ba6-4bb0-9104-485ceb5a9d0a)
 ![image](https://github.com/user-attachments/assets/f02bc27e-2835-4e27-94aa-4747da52d601)
 ![image](https://github.com/user-attachments/assets/6791fb3c-3551-4586-bed8-679594dd89e9)
+# Queries: 
 
 
 
