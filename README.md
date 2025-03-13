@@ -21,12 +21,10 @@ Our team’s data model is designed for an online bookstore, capturing key relat
 ![image](https://github.com/user-attachments/assets/f02bc27e-2835-4e27-94aa-4747da52d601)
 ![image](https://github.com/user-attachments/assets/6791fb3c-3551-4586-bed8-679594dd89e9)
 # Queries: 
-1. Query 1 retrieves employee details along with their assigned shifts and pay rates by joining multiple tables to link employees, shift assignments, and shifts for a comprehensive view.
-2. Query 2 displays each book's selling price, purchase cost, and computed profit, helping identify high-margin books that contribute the most to revenue.
-3. Query 3 identifies how much profit each book generates per sale, helping assess which books contribute the most profit.
-4. Query 4 retrieves sales data including product details, pricing, and quantity sold, using a window function to compute total profit across all sales while joining sales data with inventory to link product details and sales transactions.
-5. Query 5 retrieves book details including ISBN, title, and author, displays the available quantity of each book, categorizes books by genre, assigns them to specific aisles, and joins the inventory table with the category table to link books with their respective categories.
-
+1. Query 1 retrieves employee details, assigned shifts, and pay rates by joining multiple tables to link employees, assignments, and shifts for a comprehensive view.
+   ![image](https://github.com/user-attachments/assets/2aa7443a-ec97-45a3-bb84-1584c172d02b)
+Description:
+This query retrieves the total number of books sold by each employee, ordering them from highest to lowest sales. This helps evaluate employee performance and identify top sellers.
 
 
 
