@@ -2,7 +2,7 @@
 # Team Members: 
 1. Zhen, Christina - 811674601 - https://github.com/cz67968/MIST4610-Group-5-Project-1
 2. Snow, Luke -
-3. Arfath, Rushil -
+3. Arfath, Rushil - 811460339 - https://github.com/R1Arafath/Group-5-Project-1-Final
 4. Khan, Azaan -
 5. Fontoura, Gabriel -
 
