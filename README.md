@@ -27,6 +27,36 @@ Our team’s data model is designed for an online bookstore, capturing key relat
 
 Description:
 This query retrieves the total number of books sold by each employee, ordering them from highest to lowest sales. This helps evaluate employee performance and identify top sellers.
+2. Query 2 displays each book's selling price, purchase cost, and computed profit, helping identify high-margin books that contribute the most to revenue.
+
+![image](https://github.com/user-attachments/assets/a72d8090-7c38-47ca-86d9-7e87fe3cd310)
+
+Description:
+This query highlights books with higher-than-average profit, helping recognize best-selling, high-margin products to inform purchasing and marketing strategies.
+3.Query 3 identifies how much profit each book generates per sale, helping assess which books contribute the most profit.
+
+![image](https://github.com/user-attachments/assets/0d13c720-374c-4507-b5fb-4053fb5af2b5)
+
+Description:
+This query highlights the most sold books along with their price and profitability. It supports restocking decisions and provides insight into customer preferences.
+4. Query 4 retrieves sales data, including product details, pricing, and quantity sold, using a window function to compute total profit across all sales. It joins sales data with inventory to link product details and transactions.
+
+![image](https://github.com/user-attachments/assets/03b3f3fd-2b19-45d2-8598-cedb4b57e3d9)
+
+Description:
+This query calculates the total hours worked by each employee and ranks them from highest to lowest. It helps with payroll processing and identifying employees with the highest workload.
+5. Query 5 retrieves book details, including ISBN, title, author, available quantity, genre categorization, and aisle assignment. It joins the inventory table with the category table to link books with their respective categories.
+
+![image](https://github.com/user-attachments/assets/e6b3ceb4-dd46-482e-a7e4-fae8fc547099)
+
+Description:
+This query calculates profit per book (ISBN) and the total profit of each sale transaction, supporting financial analysis and revenue tracking.
+
+
+
+
+
+
 
 
 
