@@ -59,6 +59,59 @@ This query calculates the total hours worked by each employee and ranks them fro
 Description:
 This query calculates profit per book (ISBN) and the total profit of each sale transaction, supporting financial analysis and revenue tracking.
 
+6. Query 6 provides employee shift details, labor per employee, and total labor cost per shift by calculating payroll based on hours and pay rate, using window functions for total shift labor.
+
+![image](https://github.com/user-attachments/assets/7205f4d4-b9af-4c83-bb38-af7fce816ec1)
+
+Description:
+This query provides payroll calculations per employee shift and the total labor cost per shift. It assists in budgeting and staffing decisions.
+
+7. Query 7 calculates the total profit generated over the entire sales period by computing profit per sale and using a window function to sum total profit across all transactions.
+
+![image](https://github.com/user-attachments/assets/a4a013c3-fce2-4299-afe2-8050a6e5c395)
+
+Description:
+This query calculates the total profit generated over all sales transactions. It is useful for high-level financial reporting and performance analysis.
+
+8. Query 8 retrieves the employee with the earliest start date, indicating the longest tenure in the company.
+
+![image](https://github.com/user-attachments/assets/3efaea1b-0283-4b99-a61f-f077a5103939)
+
+Description:
+This query finds the employee with the longest tenure in the company. It can be used for employee recognition programs or for workforce planning.
+
+9. Query 9 calculates labor cost per employee shift and uses a window function to compute the total labor cost across all shifts over the entire sales period.
+
+![image](https://github.com/user-attachments/assets/223a4fbc-0ecf-4b2e-a7fe-e1caf684df86)
+
+Description:
+This query computes the total labor cost for all shifts over the entire sales period. It is useful for financial planning and workforce cost analysis.
+
+10. Query 10 retrieves book inventory details, including ISBN, title, author, available quantity, category name, and aisle location by joining the inventory and category tables.
+
+![image](https://github.com/user-attachments/assets/ba5be8cd-cc2c-4c80-a0e6-01d7d3e33ed3)
+
+Description:
+This query retrieves book inventory details, including quantity available and location in the store. It is helpful for stock management and customer assistance.
+
+# Database Information 
+
+![image](https://github.com/user-attachments/assets/55392353-a833-40ed-8fde-53a91ce5f930)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
