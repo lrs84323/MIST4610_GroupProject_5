@@ -42,6 +42,7 @@ This query highlights books with higher-than-average profit, helping recognize b
 
 Description:
 This query highlights the most sold books along with their price and profitability. It supports restocking decisions and provides insight into customer preferences.
+
 4. Query 4 retrieves sales data, including product details, pricing, and quantity sold, using a window function to compute total profit across all sales. It joins sales data with inventory to link product details and transactions.
 
 
@@ -49,6 +50,7 @@ This query highlights the most sold books along with their price and profitabili
 
 Description:
 This query calculates the total hours worked by each employee and ranks them from highest to lowest. It helps with payroll processing and identifying employees with the highest workload.
+
 5. Query 5 retrieves book details, including ISBN, title, author, available quantity, genre categorization, and aisle assignment. It joins the inventory table with the category table to link books with their respective categories.
 
 
