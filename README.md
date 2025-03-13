@@ -94,7 +94,7 @@ This query computes the total labor cost for all shifts over the entire sales pe
 Description:
 This query retrieves book inventory details, including quantity available and location in the store. It is helpful for stock management and customer assistance.
 
-# Database Information 
+# Database Information:
 
 ![image](https://github.com/user-attachments/assets/55392353-a833-40ed-8fde-53a91ce5f930)
 
