@@ -22,7 +22,9 @@ Our team’s data model is designed for an online bookstore, capturing key relat
 ![image](https://github.com/user-attachments/assets/6791fb3c-3551-4586-bed8-679594dd89e9)
 # Queries: 
 1. Query 1 retrieves employee details, assigned shifts, and pay rates by joining multiple tables to link employees, assignments, and shifts for a comprehensive view.
-   ![image](https://github.com/user-attachments/assets/2aa7443a-ec97-45a3-bb84-1584c172d02b)
+
+![image](https://github.com/user-attachments/assets/2aa7443a-ec97-45a3-bb84-1584c172d02b)
+
 Description:
 This query retrieves the total number of books sold by each employee, ordering them from highest to lowest sales. This helps evaluate employee performance and identify top sellers.
 
