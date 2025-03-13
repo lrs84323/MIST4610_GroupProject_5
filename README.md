@@ -35,6 +35,7 @@ This query retrieves the total number of books sold by each employee, ordering t
 
 Description:
 This query highlights books with higher-than-average profit, helping recognize best-selling, high-margin products to inform purchasing and marketing strategies.
+
 3.Query 3 identifies how much profit each book generates per sale, helping assess which books contribute the most profit.
 
 ![image](https://github.com/user-attachments/assets/0d13c720-374c-4507-b5fb-4053fb5af2b5)
