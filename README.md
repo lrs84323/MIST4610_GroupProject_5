@@ -29,6 +29,8 @@ Description:
 This query retrieves the total number of books sold by each employee, ordering them from highest to lowest sales. This helps evaluate employee performance and identify top sellers.
 
 2. Query 2 displays each book's selling price, purchase cost, and computed profit, helping identify high-margin books that contribute the most to revenue.
+
+   
 ![image](https://github.com/user-attachments/assets/a72d8090-7c38-47ca-86d9-7e87fe3cd310)
 
 Description:
